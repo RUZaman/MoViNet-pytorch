@@ -4,6 +4,10 @@ Pytorch unofficial implementation of [MoViNets: Mobile Video Networks for Effici
 Authors: Dan Kondratyuk, Liangzhe Yuan, Yandong Li, Li Zhang, Mingxing Tan, Matthew Brown, Boqing Gong (Google Research) <br>
 [[Authors' Implementation]](https://github.com/tensorflow/models/tree/master/official/vision/beta/projects/movinet)<br>
 
+
+https://paperswithcode.com/paper/movinets-mobile-video-networks-for-efficient
+
+
 ## Stream Buffer
 ![stream buffer](https://github.com/Atze00/MoViNet-pytorch/blob/main/figures/Stream_buffer.png)
 
